@@ -9,3 +9,5 @@ The main file, `IVPL_challenge.ipynb`, contains the complete pipeline, including
 * Inference and mask visualization
 
 For more detailed explanations refer directly to the markdown cells and comments inside the `IVPL_challenge.ipynb` notebook itself.
+
+![](clouds.png)
